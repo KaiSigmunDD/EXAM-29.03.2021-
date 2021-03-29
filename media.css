@@ -1,0 +1,342 @@
+
+@media(max-width: 1160px){
+    .container{
+      width: 1040px;  
+    }
+}
+
+
+
+
+@media(max-width: 1160px){
+    .container{
+      width: 1040px;  
+    }
+    
+
+    .main-box-left, .main-box-right{
+        
+        width: 40%;
+    }
+    iframe{
+        width: 400px;
+    }
+
+
+    .services-title {
+    }
+    .services-info {
+    }
+    .services-list {
+    }
+    .services-item {
+    }
+    .service-img1 {
+    }
+    .item-title {
+    }
+    .item-text {
+    }
+    .service-box {
+    }
+    .service {
+    }
+    .service-link {
+    }
+
+
+
+}
+
+
+
+@media(max-width: 960px){
+    .container{
+      width: 840px;  
+    }
+    .nav-butt{
+        display: none;
+    }
+   .nav-list{
+       flex-direction: column;
+   }
+   .nav-link{
+       font-size: 15px;
+   }
+
+
+   .main .container{
+       flex-direction: column;
+       align-items: center;
+       justify-content: center;
+   }
+   .main-box-left, .main-box-right{
+    margin-top: 5px;
+    width: 30%;
+}
+   iframe{
+       width: 350px;
+   }
+
+   .services-title {
+}
+.services-info {
+}
+.services-list {
+}
+.services-item {
+    width: 40%;
+}
+.service-img1 {
+}
+.item-title {
+    font-size: 17px;
+}
+.item-text {
+    font-size: 13px;
+}
+.service-box {
+}
+.service {
+}
+.service-link {
+}
+
+
+.footer-item {
+ 
+    margin-bottom: 20px;
+    margin-right: 70px;
+  
+}
+
+
+.footer-list{
+    flex-direction: column;
+}
+
+}
+
+
+@media(max-width: 760px){
+    .container{
+      width: 640px;  
+    }
+
+    .hamburger{
+        visibility: initial;
+    }
+
+    .box-left-link{
+        font-size: 10px;
+        display: inline-block;
+    }
+    
+    iframe{
+        width: 320px;
+    }
+
+    .services-title {
+        font-size: 15px;
+    }
+    .services-info {
+        font-size: 10px;
+    }
+    .services-list {
+    }
+    .services-item {
+        width: 80%
+    }
+    .service-img1 {
+    }
+    .item-title {
+    }
+    .item-text {
+    }
+    .service-box {
+        flex-direction: column;
+        align-items: center;
+    }
+    .service {
+    }
+    .service-link {
+    }
+    .contact-title{
+        font-size: 15px;
+
+    }
+    .contact-info{
+        font-size: 12px;
+
+    }
+    .button{
+        font-size: 13px;
+    }
+
+    .footer-item {
+        margin-bottom: 10px;
+        margin-right: 50px;
+      
+    }
+}
+
+
+
+
+
+@media(max-width: 660px){
+    .container{
+      width: 540px;  
+    }
+    .nav-list{
+        display: none;
+    }
+    .hamburger{
+        margin-left: auto;
+    }
+
+    iframe{
+        width: 300px;
+    }
+
+    .box-left-title{
+        font-size: 15px;
+    }
+    .box-left-text{
+        font-size: 12px;
+    }
+
+    .services-title {
+    }
+    .services-info {
+    }
+    .services-list {
+    }
+    .services-item {
+    }
+    .service-img1 {
+    }
+    .item-title {
+    }
+    .item-text {
+    }
+    .service-box {
+    }
+    .service {
+    }
+    .service-link {
+    }
+
+    .work-title{
+        font-size: 15px;
+    }
+    .work-info{
+        font-size: 10px;
+    }
+
+    .work-list{
+        justify-content: center;
+        align-items: center;
+    }
+    .work-img{
+        display: none;
+    }
+
+    .box-title{
+        font-size: 12px;
+    }
+    .box-info{
+
+        font-size: 9px;
+
+    }
+
+    .work-link{
+        font-size: 10px;
+    }
+
+
+    .contact-title{
+        font-size: 12px;
+
+    }
+    .contact-info{
+        font-size: 9px;
+
+    }
+    .button{
+        font-size: 12px;
+    }
+}
+
+
+
+
+
+@media(max-width: 560px){
+    .container{
+      width: 440px;  
+    }
+    .hamburger{
+        visibility: hidden;
+    }
+
+    .logo-link{
+        margin: 0   auto;
+    }
+    
+
+    .box-left-title{
+        font-size: 13px;
+    }
+    .box-left-text{
+        font-size: 10px;
+    }
+
+    .box-left-link{
+        display: none;
+        
+    }
+    iframe{
+        width: 250px;
+    }
+
+    .services-title {
+    }
+    .services-info {
+    }
+    .services-list {
+    }
+    .services-item {
+    }
+    .service-img1 {
+    }
+    .item-title {
+    }
+    .item-text {
+    }
+    .service-box {
+    }
+    .service {
+    }
+    .service-link {
+    }
+    
+    .contact-title{
+        font-size: 10px;
+
+    }
+    .contact-info{
+        font-size: 8px;
+
+    }
+
+    .button{
+        font-size: 9px;
+    }
+    .footer-item {
+        margin-bottom: 5px;
+        margin-right: 20px;
+      
+    }
+}
